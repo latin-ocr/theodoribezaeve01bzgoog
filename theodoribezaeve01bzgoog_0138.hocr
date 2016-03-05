@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theodoribezaeve01bzgoog_0138.png"; bbox 0 0 519 881; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 10 54 399 91">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 10 54 399 91">
+     <span class='ocr_line' id='line_1_1' title="bbox 10 54 399 91; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 10 66 13 69; x_wconf 57' lang='lat'><strong>⁴</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 79 54 203 90; x_wconf 76' lang='lat' dir='ltr'>MARCI</span> <span class='ocrx_word' id='word_1_3' title='bbox 218 64 399 91; x_wconf 82' lang='lat' dir='ltr'>ANTONII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 53 147 421 278">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 53 147 421 278">
+     <span class='ocr_line' id='line_1_2' title="bbox 126 147 357 179; baseline 0.004 -1"><span class='ocrx_word' id='word_1_4' title='bbox 126 150 165 179; x_wconf 89' lang='lat' dir='ltr'><strong><em>M</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 179 148 247 178; x_wconf 84' lang='lat' dir='ltr'>UR</span> <span class='ocrx_word' id='word_1_6' title='bbox 260 148 288 179; x_wconf 85' lang='lat' dir='ltr'><em>E</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 302 147 357 179; x_wconf 83' lang='lat' dir='ltr'>TI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 53 233 421 278; baseline -0.008 0"><span class='ocrx_word' id='word_1_8' title='bbox 53 233 421 278; x_wconf 85' lang='lat' dir='ltr'><strong>JUVENILIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 71 606 399 628">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 71 606 399 628">
+     <span class='ocr_line' id='line_1_4' title="bbox 71 606 399 628; baseline 0.015 -5"><span class='ocrx_word' id='word_1_9' title='bbox 71 606 206 624; x_wconf 76' lang='lat' dir='ltr'><strong><em>LUGDUNI</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 224 608 399 628; x_wconf 72' lang='lat' dir='ltr'><em>BATAVORUM.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 106 649 377 703">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 106 649 377 703">
+     <span class='ocr_line' id='line_1_5' title="bbox 106 649 377 666; baseline 0.015 -3"><span class='ocrx_word' id='word_1_11' title='bbox 106 649 377 666; x_wconf 47' lang='grc' dir='ltr'>ἐξ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 125 681 346 703; baseline 0.009 -3"><span class='ocrx_word' id='word_1_12' title='bbox 125 681 146 700; x_wconf 89' lang='grc' dir='ltr'><strong>Μ</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 164 682 237 701; x_wconf 89' lang='lat' dir='ltr'>DCC</span> <span class='ocrx_word' id='word_1_14' title='bbox 256 682 346 703; x_wconf 92' lang='lat' dir='ltr'>LVII.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 113 645 368 651">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 113 645 368 651">
+     <span class='ocr_line' id='line_1_7' title="bbox 113 645 368 651; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 113 645 368 651; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
